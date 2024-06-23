@@ -55,5 +55,4 @@ This Go program fetches historical exchange rate data for selected cryptocurrenc
     }
     ```
 
-## Example Output
 
