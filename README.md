@@ -17,7 +17,7 @@ This Go program fetches historical exchange rate data for selected cryptocurrenc
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/crypto-exchange-rate-history.git
+    git clone https://github.com/daroneeee/crypto-exchange-rate-history.git
     cd crypto-exchange-rate-history
     ```
 
